@@ -1,0 +1,15 @@
+# configurations
+# Your OpenAI API key 
+openai_api_key= ''
+# Your trilium server
+server_url = ''
+# Your trilium ETAPI token
+token = ''
+# Note id for save the answer
+note_id = 'root'
+# proxy for ChatGPT, set it to None if you do not need it
+proxies = {
+    "http": "http://127.0.0.1:10809",
+    "https": "http://127.0.0.1:10809"
+}
+# proxies = None

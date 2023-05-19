@@ -1,0 +1,4 @@
+flask
+openai
+trilium-py
+markdown2[all]
